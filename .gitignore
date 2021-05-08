@@ -1,0 +1,12 @@
+.DS_Store
+Vue-chat/node_modules/
+Vue-chat/dist/
+Vue-chat/npm-debug.log*
+Vue-chat/yarn-debug.log*
+Vue-chat/yarn-error.log*
+
+Koa-chat/node_modules/
+Koa-chat/dist/
+Koa-chat/npm-debug.log*
+Koa-chat/yarn-debug.log*
+Koa-chat/yarn-error.log*
